@@ -1,0 +1,5 @@
+1,black castle (5) k db ,3y d e,evoke (usa)- tendü / karabeyhan (gb),54,t.keresteci̇ap ,i̇dri̇s ünlü,ö.güneli̇,3,12,58-8,24,17,,69.95,-,1.46.58,kum,1700,kocaeli 
+2,brave gladiator (2) kg sk ,3y a e,bosporus (ire)- brave soul / luxor,58,h.çi̇zi̇k,hakan saner,muh.çeli̇k,2,36,2522-27,39,18,,3.45,-,1.46.58,kum,1700,kocaeli 
+3,firecracker (1) kg db sk ,3y d e,three valleys (usa)- suelinn / sea hero (usa),58,n.avci̇,erdem bekmezci̇,y.yildiz,5,36,3692-22,20,19,,2.40,-,1.46.58,kum,1700,kocaeli 
+4,i̇ki̇ benli̇ (3) db ,3y k e,general quarters (usa)- flame girl / green gönen,58,m.hamedi̇,yilmaz sevi̇nç,e.eren,1,16,99-85,21,16,,6.70,-,1.46.58,kum,1700,kocaeli 
+5,son spartali (8) k db ,3y d e,serhas- sheemar / shrewd idea (gb),58 +0.20 ,s.özen,mi̇kai̇l altin,m.altin,8 ,14,00-704,4,15,1.57.21,26.15,-,1.46.58,kum,1700,kocaeli 

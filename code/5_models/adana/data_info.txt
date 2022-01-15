@@ -1,0 +1,4 @@
+lgt_adana_t15.pkl used 16kb data
+lgt_adana_t13.pkl used 200kb data
+lgt_adana_t11.pkl used 680kb data
+t10- 690kb
